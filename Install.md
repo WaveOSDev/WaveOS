@@ -1,5 +1,3 @@
-# Installation
-
 # WaveOS
 WaveOS Is still under development at this time. Keep up with updates by joining our Discord Server
 
